@@ -5,7 +5,7 @@
  - Pedir para o aluno digitar o RA, ou caso nao haja mais alunos, digitar 0
  - **SE** A resposta e igual a 0? **FAÇA**
    - "Fim"
- - **SE NAO* **FAÇA**
+ - **SE NAO** **FAÇA**
    - Pedir para digitar as notas das 3 provas
    - Calcular a media do aluno
     - **SE** media >= 8 **FAÇA**
