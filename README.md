@@ -14,7 +14,7 @@
       - **SE** media <8 && >6 **FAÇA**
         - "RECUPERACAO"
       - **SE NAO** **FAÇA**
-        - "RECUPERACAO"
+        - "REPROVADO"
 - **FIM SE**
     - **FIM SE**
        - **FIM SE**
